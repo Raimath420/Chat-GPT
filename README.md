@@ -1,5 +1,5 @@
 # Chat-GPT Clone
-This is clone of Chat GPT application Using  OPEN AI API 
+This is clone of Chat GPT application Using  OPEN AI API
 and JAVASCRIPT CSS HTML
 This site is completly responsive it can give results like Chat GPT 
 Some times it can give an server error due to privacy issue with the API Key 
